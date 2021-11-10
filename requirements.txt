@@ -1,0 +1,7 @@
+tkinter
+pyautogui
+pillow
+pytesseract
+os
+webbrowser
+datetime
